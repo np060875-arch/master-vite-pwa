@@ -1,0 +1,68 @@
+{
+  "MPL_PH": {
+    "source": "Wikipedia MPL Philippines 2025 (sample)",
+    "teams": {
+      "AP Bren": [
+        "Der",
+        "Kekedot",
+        "Chovyskrt",
+        "Shizou",
+        "Sindel"
+      ],
+      "ONIC PH": [
+        "K1NGKONG",
+        "Brusko",
+        "Kelra",
+        "Kekedot",
+        "Renejay"
+      ],
+      "Team Liquid": [
+        "Sanford",
+        "KarlTzy",
+        "YukTzy",
+        "Jaypee",
+        "Sindel"
+      ]
+    }
+  },
+  "MDL_ID": {
+    "source": "MDL Indonesia teams listing",
+    "teams": {
+      "Alter Ego X": [
+        "Player1",
+        "Player2",
+        "Player3"
+      ],
+      "Bigetron Academy": [
+        "Player1",
+        "Player2",
+        "Player3"
+      ],
+      "BTR by Vitality": [
+        "Player1",
+        "Player2",
+        "Player3"
+      ]
+    }
+  },
+  "VMC_VN": {
+    "source": "VMC coverage and news",
+    "teams": {
+      "Saigon Phantom": [
+        "SP.Player1",
+        "SP.Player2",
+        "SP.Player3"
+      ],
+      "RLG SE": [
+        "RLG.Player1",
+        "RLG.Player2",
+        "RLG.Player3"
+      ],
+      "AFO SQ": [
+        "AFO.Player1",
+        "AFO.Player2",
+        "AFO.Player3"
+      ]
+    }
+  }
+}
